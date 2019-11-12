@@ -1,0 +1,17 @@
+{
+  "model-namespace" : "https://kiegroup.org/dmn/_0405571C-C3FF-4EE4-A710-940701800275",
+  "model-name" : "Avaliacao",
+  "dmn-context" :
+  {
+    "Cliente" :
+    {
+  	   "score" : 70,
+			 "tempo": 2
+    },
+  	"Transacao" :
+    {
+  		"valor" : 6000,
+  		"tipo" : "PAGAMENTO"
+  	}
+  }
+}

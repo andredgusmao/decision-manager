@@ -1,5 +1,31 @@
 # Instruções da capacitação técnica Red Hat Decision Manager
 
+## Links importantes
+
+Página do RH-DM
+
+https://developers.redhat.com/products/red-hat-decision-manager/overview
+
+Documentação do Decision Manager
+
+https://access.redhat.com/documentation/en-us/red_hat_decision_manager
+
+Documentação de como criar regras com DMN
+
+https://access.redhat.com/documentation/en-us/red_hat_decision_manager/7.5/html-single/designing_a_decision_service_using_dmn_models/index
+
+Documentação do RH-PAM
+
+https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager
+
+Página do RH-PAM
+
+https://developers.redhat.com/products/rhpam/overview
+
+Projeto Upstream do RH-PAM e RH-DM
+
+https://www.jbpm.org/index.html
+
 ## Construindo modelos de decisão
 
 ### Criando projeto
